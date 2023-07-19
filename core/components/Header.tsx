@@ -178,7 +178,7 @@ const Header = () => {
                         </a>
                         <a 
                             target="_blank"
-                            href="/"
+                            href="https://drive.google.com/file/d/1g64_9LaR1OYaDoiXqLKF3JetHidP_BiP/view?usp=sharing"
                             className="
                                 hover:text-accent
                                 transition-all
